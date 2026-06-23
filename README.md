@@ -1,23 +1,46 @@
-# Task 3 - Food Ordering Mobile App UI
+# CodSoft UI/UX Internship
 
-## Description
+## Task 1 - Mobile App Signup Flow
 
-A modern Food Ordering Mobile App UI designed in Figma.
+**Tool Used:**
+- Figma
 
-## Features
+**Screens:**
+- Welcome Screen
+- Sign Up Screen
+- Interests Screen
+- OTP Verification Screen
+- Success Screen
 
-* Home Screen
-* Food Details Screen
-* Search Bar
-* Food Categories
-* Recently Viewed Section
-* Add to Cart Button
-* Bottom Navigation
+**Figma Link:** https://www.figma.com/design/FFRvZjGEwWcs8AN1fJxH0b/Food-Ordering-App?node-id=0-1&p=f&t=oFrwdVeWstLWPQGC-0
 
-## Tools Used
 
-* Figma
+## Task 2 - Email Template
 
-## Author
+**Tool Used:**
+- Figma
 
-Bejjanki Harshini
+**Screens:**
+- Email Template Design
+
+**Figma Link:** https://www.figma.com/design/FFRvZjGEwWcs8AN1fJxH0b/Food-Ordering-App?node-id=22-2&p=f&t=oFrwdVeWstLWPQGC-0
+
+
+## Task 3 - Food Ordering Mobile App UI
+
+**Tool Used:**
+- Figma
+
+**Screens:**
+- Home Screen
+- Food Details Screen
+
+**Features:**
+- Search Bar
+- Food Categories
+- Product Cards
+- Recently Viewed Section
+- Add to Cart Button
+- Bottom Navigation
+
+**Figma Link:** https://www.figma.com/design/FFRvZjGEwWcs8AN1fJxH0b/Food-Ordering-App?node-id=36-4&t=oFrwdVeWstLWPQGC-0
